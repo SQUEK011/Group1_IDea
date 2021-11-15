@@ -3,6 +3,7 @@
 # General Use of Program
 > ensure that the server is online (Direct message for turning on server) 
 
+0. Build the Unity file if not done so. 
 1. Open the IdeaEditor.exe file 
 2. Sign up for an account to access the platform 
 3. Login with the credentials created 
