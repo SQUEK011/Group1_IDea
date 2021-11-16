@@ -3,8 +3,8 @@
 # General Use of Program
 > ensure that the server is online (Direct message for turning on server) 
 
-0. Build the Unity file if not done so. 
-1. Open the IdeaEditor.exe file 
+0. Download the client folder 
+1. Open the IDea.exe file
 2. Sign up for an account to access the platform 
 3. Login with the credentials created 
 4. Select a template or a project last worked on
@@ -20,8 +20,8 @@
 
 # VRTEST5
 
-Packages downloaded for the Virtual Reality Program:
-Google XR Plugin Package: https://github.com/googlevr/cardboard-xr-plugin.git  
+Packages downloaded for the Virtual Reality Program:<br/>
+Google XR Plugin Package: https://github.com/googlevr/cardboard-xr-plugin.git<br/>
 GoogleVRForUnity_1.200.1.unitypackage: https://github.com/googlevr/gvr-unity-sdk/releases 
 
 To view VR scene:
@@ -33,6 +33,6 @@ To view VR scene:
 
 # Other Assets 
 
-Mirror | Network : https://assetstore.unity.com/packages/tools/network/mirror-129321
-Extensions for Playfab: https://assetstore.unity.com/packages/tools/utilities/extensions-for-playfab-177350
+Mirror | Network : https://assetstore.unity.com/packages/tools/network/mirror-129321<br/>
+Extensions for Playfab: https://assetstore.unity.com/packages/tools/utilities/extensions-for-playfab-177350<br/>
 Runtime Transform Gizmo: https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo 
